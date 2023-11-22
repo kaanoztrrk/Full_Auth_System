@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427756810237",
+    "project_id": "auth-baaf8",
+    "storage_bucket": "auth-baaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427756810237:android:9369da7cfd40da0004b394",
+        "android_client_info": {
+          "package_name": "com.example.full_login_register"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR3SoY0a55cdB9wXuUM-6U7wqAiFoxzlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
